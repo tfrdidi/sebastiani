@@ -1,4 +1,12 @@
 baseURL = "http://hugo-testsite.netlify.com"
 languageCode = "de-de"
-title = "Hugo Testsite"
+title = "Sebastiani Lengfurt"
 theme = "ananke"
+
+DefaultContentLanguage = "de"
+SectionPagesMenu = "main"
+
+[params]
+background_color_class = "bg-black"
+facebook = "https://www.facebook.com/SebastianiLengfurt"
+featured_image = "/images/3.jpg"
