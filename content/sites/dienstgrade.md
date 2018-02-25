@@ -6,6 +6,7 @@ url: "/dienstgrade"
 ---
 
 ## Hauptmann
+![Hauptmann Oskar Aschauer. Foto: Rafael Pilarsky (2018)](/images/hauptmann-thumb.jpg)
 Der Hauptmann ist der ranghöchste Offizier und Vorstand des Vereins. Außerdem vertritt er den Verein nach außen hin. Er ist verantwortlich für den alljährlichen Festablauf und kommandiert die Soldaten. Seine Erkennungszeichen sind der Säbel, der Schiffshut, die 3 Streifen auf dem Gehrock und die 4 Sterne auf den Schulterstücken.
 
 
