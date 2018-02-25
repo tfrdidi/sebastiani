@@ -1,7 +1,9 @@
 ---
 title: "Ablauf"
 date: 2018-02-22T20:35:48+01:00
+featured_image: "images/ablauf.jpg"
 ---
+
 
 ## Samstag
 Das Fest beginnt am Samstagabend um 18:30 Uhr mit dem Zapfenstreich. Die Trommler, die Musikkapelle und die Wachmannschaft treffen sich nach Einbruch der Dunkelheit am Marktplatz. Einem Trommelwirbel, auch genannt "die Locke", folgt das Musikstück "Großer Zapfenstreich". Danach marschieren alle Versammelten unter Führung des Tambour-Majors durch den Altort, wobei sich Musikkapelle und Trommler abwechseln. Anschließend trifft man sich zu einem gemütlichen Abend in einer Weinwirtschaft.

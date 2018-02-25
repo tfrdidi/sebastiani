@@ -1,6 +1,8 @@
 ---
 title: "Allgemein"
 date: 2018-02-22T20:30:47+01:00
+weight: 10
+featured_image: "images/start.jpg"
 ---
 
 Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian, dem 20. Januar, gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll damals die Pest gewichen sein. Die Lengfurter Bürger gelobten daraufhin alljährlich den Festtag des Hl. Sebastian zu begehen.
