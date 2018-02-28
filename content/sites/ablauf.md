@@ -31,3 +31,8 @@ Am Sonntagabend trifft man sich noch einmal zum Zapfenstreich. Dieser beginnt na
 ## Montag
 
 Um 9:00 Uhr findet ein Gottesdienst für die verstorbenen Vereinsmitglieder statt. Auch hier erinnern die [Trommler](/dienstgrade#trommler) mit zwei Märschen durch das Altort. Angeführt von den [Trommlern](/dienstgrade#trommler) in Gehröcken marschieren die übrigen Männer in Zivil, jedoch mit einem Zylinder. Dem Gottesdienst folgt die Kassenablage. Damit klingt das Fest aus.
+
+
+## Sebastiani-Dokumentation
+2001 wurde eine umfassende Doku des Sebastifestes in Lengfurt gedreht:
+{{< youtube LFLPAkZbWpU >}}

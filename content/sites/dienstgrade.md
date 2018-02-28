@@ -6,15 +6,18 @@ url: "/dienstgrade"
 ---
 
 ## Hauptmann
-![Hauptmann Oskar Aschauer. Foto: Rafael Pilarsky (2018)](/images/hauptmann-thumb.jpg)
+{{< figure src="/images/hauptmann-thumb.jpg" caption="Hauptmann Oskar Aschauer. Foto: Rafael Pilarsky (2018)" link="/images/hauptmann.jpg" >}}
+
 Der Hauptmann ist der ranghöchste Offizier und Vorstand des Vereins. Außerdem vertritt er den Verein nach außen hin. Er ist verantwortlich für den alljährlichen Festablauf und kommandiert die Soldaten. Seine Erkennungszeichen sind der Säbel, der Schiffshut, die 3 Streifen auf dem Gehrock und die 4 Sterne auf den Schulterstücken.
 
 
 ## Oberleutnant
+{{< figure src="/images/oberleutnant.jpg" caption="Oberleutnant Arnulf Endres. Foto: Rafael Pilarsky (2013)" link="/images/oberleutnant.jpg" >}}
+
 Der Oberleutnant ist der Stellvertreter des [Hauptmanns](#hauptmann) und der Kommandant des ersten Zuges. Er lässt am Sonntag vor dem Festgottesdienst die Soldaten antreten und übergibt dann das Kommando an den Hauptmann. Wie der Hauptmann trägt auch er einen Säbel und einen Schiffshut. Er hat zwei goldene Streifen auf dem Gehrock und goldene Schulterstücke.
 
 
-## Leutnant
+## Leutnants
 Es gibt zwei Leutnants im Sebastianiverein. Einer ist Zugführer des zweiten und einer des dritten Zuges. Beide haben das Kommando über ihren jeweiligen Zug. Wie der [Oberleutnant](#oberleutnant) haben sie einen Säbel und einen Schiffshut. Sie haben einen goldenen Streifen auf dem Gehrock und silberne Schulterstücke.
 
 
@@ -30,7 +33,11 @@ Der Fähnrich trägt die Vereinsfahne. Er steckt diese jeweils in der Kirche und
 Für jeden Zug gibt es einen Feldwebel als stellvertretenden Zugführer. Der wachhabende Unteroffizier ist für die [Wachmannschaft](#wachmannschaft) verantwortlich. Er kümmert sich um die Ausbildung der jungen Mitglieder des Sebastiani-Vereins. Außerdem teilt er die Wache der Fahne am Sonntag ein. In der Fahnensektion läuft ein Feldwebel hinter dem [Fähnrich](#fähnrich). Alle Feldwebel tragen Zylinder und Säbel.
 
 
-## Pionier
+## Pioniere
+{{< figure src="/images/pioniere-thumb.jpg" caption="Die Pioniere Klaus Karpf und Edwin Herberich. Foto: Rafael Pilarsky (2018)" link="/images/pioniere.jpg" >}}
+
+
+
 Es gibt zwei Pioniere. Sie führen die Soldaten an. Gekleidet sind sie mit einer weißen Lederschürze, dazu tragen Sie Äxte. Ihre Aufgabe ist es den Weg für die Soldaten zu bereiten.
 
 
