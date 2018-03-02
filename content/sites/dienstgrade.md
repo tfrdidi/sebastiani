@@ -12,8 +12,6 @@ Der Hauptmann ist der ranghöchste Offizier und Vorstand des Vereins. Außerdem 
 
 
 ## Oberleutnant
-{{< figure src="/images/oberleutnant.jpg" caption="Oberleutnant Arnulf Endres. Foto: Rafael Pilarsky (2013)" link="/images/oberleutnant.jpg" >}}
-
 Der Oberleutnant ist der Stellvertreter des [Hauptmanns](#hauptmann) und der Kommandant des ersten Zuges. Er lässt am Sonntag vor dem Festgottesdienst die Soldaten antreten und übergibt dann das Kommando an den Hauptmann. Wie der Hauptmann trägt auch er einen Säbel und einen Schiffshut. Er hat zwei goldene Streifen auf dem Gehrock und goldene Schulterstücke.
 
 
