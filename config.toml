@@ -13,18 +13,3 @@ featured_image = "/images/start.jpg"
 
 
 
-[[menu.test]]
-name = "Home"
-url  = "/"
-weight = 0
-
-
-[[menu.test]]
-name = "Seiten"
-url  = "sites/"
-weight = 5
-
-[[menu.test]]
-name = "Blog"
-url  = "post/"
-weight = 10
