@@ -1,4 +1,4 @@
-baseURL = "http://hugo-testsite.netlify.com"
+baseURL = "https://hugo-testsite.netlify.com"
 languageCode = "de-de"
 title = "Sebastiani Lengfurt"
 theme = "sebastiani"
