@@ -1,0 +1,3 @@
+[submodule "themes/sebastiani"]
+	path = themes/sebastiani
+	url = https://github.com/tfrdidi/gohugo-theme-ananke.git

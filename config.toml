@@ -1,7 +1,7 @@
 baseURL = "http://hugo-testsite.netlify.com"
 languageCode = "de-de"
 title = "Sebastiani Lengfurt"
-theme = "ananke"
+theme = "sebastiani"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
