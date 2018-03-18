@@ -4,6 +4,7 @@ date: 2018-03-02 20:42:21 +0100
 type: page
 menu:
   footer: {}
+featured_image: "images/papier.jpg"
 
 ---
 Für das vorliegende Informationsangebot zeichnen folgende Einrichtung bzw. Personen verantwortlich im Sinne der einschlägigen gesetzlichen Bestimmungen:
@@ -57,5 +58,3 @@ Insbesondere werden Inhalte Dritter als solche gekennzeichnet.
 Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden
 Hinweis.
 Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
-[Zurück zur Startseite](/)
