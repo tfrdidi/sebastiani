@@ -1,8 +1,11 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
   <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+    <article>
+      <div class="ph4-ns o-50 f6">Foto: {{ .Params.image_description }}. 
+        <a class="link black" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> {{ .Params.image_photographer }} ({{ .Params.image_year }})
+          </div>
+      <div class="center cf pv4 ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
         Zurück zur <a href="/">Startseite</a>.
       </div>

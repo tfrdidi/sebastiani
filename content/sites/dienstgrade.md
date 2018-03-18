@@ -3,6 +3,9 @@ title: Dienstgrade und Funktionen
 date: 2018-02-25 11:39:34 +0100
 featured_image: images/dienstgrade.jpg
 url: "/dienstgrade"
+image_description: "Schulterstück des Hauptmanns"
+image_photographer: "Lukas hahmann"
+image_year: "2012"
 
 ---
 Es gibt, nach Vorgabe des Militärs 1866, im Sebastianiverein viel verschiedene Posten und Aufgaben. Allen voran der Hauptmann:
