@@ -1,11 +1,13 @@
 ---
-title: "Geschichte"
-date: 2018-02-17T14:38:43+01:00
-featured_image: "images/geschichte.jpg"
+title: Geschichte
+date: 2018-02-17 14:38:43 +0100
+featured_image: images/geschichte.jpg
 url: "/geschichte"
----
 
+---
 Das Sebastianifest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian am 20. Januar gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll die Pest gewichen sein und die Lengfurter Bürger gelobten, alljährlich den Festtag des Hl. Sebastian zu begehen.
+
+<!--more-->
 
 Es ist durchaus möglich, dass die Verehrung des Hl. Sebastian in Lengfurt noch weiter in die Geschichte zurückgeht. Bereits im Mittelalter gab es in vielen Orten der Region sogenannte Sebastiani-Schützenbruderschaften. Viele Ortschaften hatten, wie auch Lengfurt, eine Dorfmauer und zur Verteidigung eine "Bürgerwehr".
 
