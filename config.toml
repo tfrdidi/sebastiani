@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 [params]
 body_classes = "avenir bg-white"
 facebook = "https://www.facebook.com/SebastianiLengfurt"
+github = "https://github.com/tfrdidi/sebastiani"
 featured_image = "/images/start.jpg"
 
 
