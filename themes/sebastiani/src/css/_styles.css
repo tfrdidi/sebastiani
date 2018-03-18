@@ -1,4 +1,8 @@
 /* Put your custom styles here and run `npm run build:production` from the "src" directory on in a linux shell */
+h2 {
+    -webkit-margin-before: 1.5em;
+}
+
 figure {
     margin: 0;
 }
@@ -14,4 +18,8 @@ figcaption p {
 
 .lower-margin-top {
     margin-top: 5px;
+}
+
+.bg-center {
+    background-position: center;
 }
