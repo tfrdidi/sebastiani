@@ -1,10 +1,12 @@
 ---
 title: "Neue Webseite"
-date: 2018-02-22T20:42:21+01:00
+date: 2018-03-18T12:24:54+01:00
 featured_image: "images/tec/github-hugo-netlify.jpg"
 ---
 
-Die Webseite wurde im letzten Monat grundlegend [technisch überarbeitet](#technische-details).
+Die Webseite wurde im letzten Monat technisch grundlegend überarbeitet.
+
+<!--more-->
 
 Es gibt es jetzt einen Bereich mit [Neuigkeiten](/neuigkeiten).
 

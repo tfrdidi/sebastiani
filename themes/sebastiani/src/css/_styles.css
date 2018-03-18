@@ -1,4 +1,4 @@
-/* Put your custom styles here and run `npm start` from the "src" directory on */
+/* Put your custom styles here and run `npm run build:production` from the "src" directory on in a linux shell */
 figure {
     margin: 0;
 }
@@ -10,4 +10,8 @@ figcaption {
 
 figcaption p {
     margin-top: 8px;
+}
+
+.lower-margin-top {
+    margin-top: 5px;
 }
