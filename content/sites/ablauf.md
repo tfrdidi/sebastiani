@@ -3,18 +3,18 @@ title: Ablauf des Festes
 date: 2018-03-18 07:35:48 +0000
 featured_image: images/ablauf.jpg
 url: "/ablauf"
-image_description: "Fähnrich und Hauptmann beim Fahne holen"
-image_photographer: "Rafael Pilarsky"
-image_year: "2013"
+image_description: Fähnrich und Hauptmann beim Fahne holen
+image_photographer: Rafael Pilarsky
+image_year: 2013
 
 ---
-Die offizielle Zeremonie beginnt immer an Samstag des Wochenendes das dem Gedenktag des heiligen Sebastian (20. Januar) am nächsten ist:
+Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag des heiligen Sebastian (20. Januar) am nächsten ist:
 
 <!--more-->
 
 ## Samstag
 
-Das Fest beginnt am Samstagabend um 18:30 Uhr mit dem Zapfenstreich. Die [Trommler](/dienstgrade#trommler), die Musikkapelle und die [Wachmannschaft](/dienstgrade#wachmannschaft) treffen sich nach Einbruch der Dunkelheit am Marktplatz. Einem Trommelwirbel, auch genannt "die Locke", folgt das Musikstück "Großer Zapfenstreich". Danach marschieren alle Versammelten unter Führung des [Tambour-Majors](/dienstgrade#tambour-major) durch den Altort, wobei sich Musikkapelle und [Trommler](/dienstgrade#trommler) abwechseln. Anschließend trifft man sich zu einem gemütlichen Abend in einer Weinwirtschaft.
+Der Auftakt des Festes ist der Zapfenstreich um 18:30 Uhr. Die [Trommler](/dienstgrade#trommler), die Musikkapelle und die [Wachmannschaft](/dienstgrade#wachmannschaft) treffen sich nach Einbruch der Dunkelheit am Marktplatz. Einem Trommelwirbel, auch genannt "die Locke", folgt das Musikstück "Großer Zapfenstreich". Danach marschieren alle Versammelten unter Führung des [Tambour-Majors](/dienstgrade#tambour-major) durch den Altort, wobei sich Musikkapelle und [Trommler](/dienstgrade#trommler) abwechseln. Anschließend trifft man sich zu einem gemütlichen Abend in einer Weinwirtschaft.
 
 ## Sonntag
 
