@@ -3,6 +3,10 @@ h2 {
     -webkit-margin-before: 1.5em;
 }
 
+ul {
+    margin: 0;
+}
+
 figure {
     margin: 0;
 }
@@ -23,3 +27,4 @@ figcaption p {
 .bg-center {
     background-position: center;
 }
+

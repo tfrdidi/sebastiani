@@ -3,6 +3,7 @@ title: Ablauf des Festes
 date: 2018-03-18 07:35:48 +0000
 featured_image: images/ablauf.jpg
 url: "/ablauf"
+menu: "main"
 image_description: Fähnrich und Hauptmann beim Fahne holen
 image_photographer: Rafael Pilarsky
 image_year: 2013

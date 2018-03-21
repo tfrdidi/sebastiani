@@ -14,3 +14,8 @@ featured_image = "/images/start.jpg"
 
 
 
+[[menu.main]]
+    name = "Neuigkeiten"
+    identifier = "neuigkeiten"
+    url = "/neuigkeiten/"
+    weight = -100
