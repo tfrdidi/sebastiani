@@ -1,12 +1,12 @@
 <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns ph3" href="{{ .Site.BaseURL }}" >
+  <div class="flex justify-between flex-wrap">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
   </a>
   {{ if .Site.Menus.footer }}
     <ul class="pl0 mr3">
       {{ range .Site.Menus.footer }}
-      <li class="list f5 f4-ns fw4 dib pr3">
+      <li class="list f5 f4-ns fw4 dib pr3 pv3">
         <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }}">
           {{ .Name | singularize }}
         </a>
