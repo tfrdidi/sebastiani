@@ -2,6 +2,7 @@
 title: "Neue Webseite"
 date: 2018-03-18T12:24:54+01:00
 featured_image: "images/tec/github-hugo-netlify.jpg"
+images: ["images/tec/github-hugo-netlify.jpg"]
 ---
 
 Die Webseite wurde im letzten Monat technisch grundlegend überarbeitet.

@@ -1,6 +1,7 @@
 ---
 title: Ablauf des Festes
 date: 2018-03-18 07:35:48 +0000
+images: ["images/ablauf.jpg"]
 featured_image: images/ablauf.jpg
 url: "/ablauf"
 menu: 

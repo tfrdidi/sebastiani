@@ -1,6 +1,7 @@
 ---
 title: Geschichte
 date: 2018-02-17 14:38:43 +0100
+images: ["images/geschichte.jpg"]
 featured_image: images/geschichte.jpg
 url: "/geschichte"
 menu: 

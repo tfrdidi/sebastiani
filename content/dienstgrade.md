@@ -1,6 +1,7 @@
 ---
 title: Dienstgrade und Funktionen
 date: 2018-02-25 11:39:34 +0100
+images: ["images/dienstgrade.jpg"]
 featured_image: images/dienstgrade.jpg
 url: "/dienstgrade"
 menu: 

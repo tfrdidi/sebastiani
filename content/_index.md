@@ -2,6 +2,7 @@
 title: Sebastiani Lengfurt
 date: 2018-02-22 20:30:47 +0100
 weight: 10
+images: ["images/start.jpg"]
 featured_image: images/start.jpg
 image_description: "Aufstellung auf dem Marktplatz"
 image_photographer: "Rafael Pilarsky"
