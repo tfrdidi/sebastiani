@@ -3,8 +3,10 @@ title: Geschichte
 date: 2018-02-17 14:38:43 +0100
 featured_image: images/geschichte.jpg
 url: "/geschichte"
-menu: "main"
-image_description: "Aufstellung auf dem Marktplatz."
+menu: 
+    main:
+        identifier: "Geschichte"
+image_description: "Aufstellung auf dem Marktplatz"
 image_photographer: "unbekannt"
 image_year: "~1895"
 
