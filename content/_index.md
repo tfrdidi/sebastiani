@@ -15,7 +15,7 @@ Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag 
 
 Das Fest wird jedes Jahr mit Fackelzug, militärischem Aufzug, Fahnenschwenken, Festgottesdienst und Andacht begangen. Organisiert und durchgeführt wird dieses Fest von den [Mitgliedern des Sebastianivereins](/dienstgrade), stellvertretend für die gesamte Lengfurter Bevölkerung. Zu diesem Fest sind besonders alle Lengfurter, aber auch alle anderen Interessierten aus nah und fern eingeladen.
 
-{{< youtube yJqJvWJBTPc >}}
+{{< youtube id="yJqJvWJBTPc" enablejsapi="1" >}}
 
 Der Sebastianiverein, dessen [Geschichte](/geschichte) in der Umgebung seines Gleichen sucht, erfreut sich unter den Lengfurtern nach wie vor großer Beliebtheit. Das Gelübde wird seit über 384 Jahren gepflegt und aktiv weitergegeben.
 
