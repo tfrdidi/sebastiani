@@ -8,7 +8,7 @@ menu:
     main:
         identifier: "Dienstgrade"
 image_description: "Schulterstück des Hauptmanns"
-image_photographer: "Lukas hahmann"
+image_photographer: "Lukas Hahmann"
 image_year: "2012"
 
 ---
