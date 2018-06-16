@@ -3,7 +3,7 @@
   <div class="flex-l mt2 mw8 center">
     <article>
       {{ if (isset .Params "image_description") }}
-        <div class="ph4-ns ph3 o-50 f6">Foto: {{ .Params.image_description }}. 
+        <div class="ph4-ns ph3 o-50 f6"><a class="link" href="/{{.Params.featured_image}}">Foto: {{ .Params.image_description }}.</a> 
           <a class="link black" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> 
           {{ .Params.image_photographer }} ({{ .Params.image_year }})
         </div>
