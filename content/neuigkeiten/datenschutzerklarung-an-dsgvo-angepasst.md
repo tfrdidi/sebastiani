@@ -4,4 +4,4 @@ draft = true
 title = "Datenschutzerklärung an DSGVO angepasst"
 
 +++
-
+Auch unsre [Datenschutzerklärung ](https://sebastiani-lengfurt.de/footer/datenschutzerkl%C3%A4rung/)wurde an die DSGVO angepasst. Wer mag darf sie gerne mal durchlesen ;-)
