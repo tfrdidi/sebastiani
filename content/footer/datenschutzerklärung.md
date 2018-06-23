@@ -1,13 +1,11 @@
 ---
 title: Datenschutzerklärung
-date: 2018-03-02 20:42:21 +0100
+date: 2018-03-02 19:42:21 +0000
 featured_image: images/papier.jpg
 menu:
   footer: {}
 
 ---
-# **Datenschutzerklärung**
-
 Jede gute Website braucht eine Datenschutzerklärung? Ok, dann machen Sie sich auf etwas gefasst.
 
 ### Präambel
@@ -38,6 +36,6 @@ Darüber hinaus verweise ich hier auch gerne auf eine Aussage des deutschen „V
 
 ### §6 Schlussbestimmungen
 
-Last but not least: Ich sehe mich als Teil der Hackerszene und habe eine positive Grundhaltung zum Thema Datenschutz. Auch deswegen habe ich diese Website auf TLS/SSL umgestellt und den Mailserver ins Intranet gehoben. Das Thema liegt mir wirklich am Herzen. Wenn ich dann allerdings sehe, mit welcher handwerklichen Qualität die Datenschutzgrundverordnung in Deutschland ausgerollt wurde, komme ich als politisch interessierte Privatperson zu dem Schluss, dass ich nicht über jedes Stöckchen springen will und kann, was der Gesetzgeber mir hier hin hält. 
+Last but not least: Ich sehe mich als Teil der Hackerszene und habe eine positive Grundhaltung zum Thema Datenschutz. Auch deswegen habe ich diese Website auf TLS/SSL umgestellt und den Mailserver ins Intranet gehoben. Das Thema liegt mir wirklich am Herzen. Wenn ich dann allerdings sehe, mit welcher handwerklichen Qualität die Datenschutzgrundverordnung in Deutschland ausgerollt wurde, komme ich als politisch interessierte Privatperson zu dem Schluss, dass ich nicht über jedes Stöckchen springen will und kann, was der Gesetzgeber mir hier hin hält.
 
 Inspiriert von [Ditzes Datenschutzerklärung](https://ditze.net/datenschutzerklaerung/). Danke dafür!
