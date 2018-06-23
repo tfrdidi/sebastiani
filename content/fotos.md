@@ -12,10 +12,9 @@ image_photographer: "Rafael Pilarsky"
 image_year: "2018"
 
 ---
-Das Sebastianifest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian am 20. Januar gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll die Pest gewichen sein und die Lengfurter Bürger gelobten, alljährlich den Festtag des Hl. Sebastian zu begehen.
+Das Sebastianifest wurde auch 2018 vom 20. bis zum 22. Januar gefeiert. Hier findet ihr die Fotos der Fotographen Rafael Pilarsky und Dirk Herberich:
 
 <!--more-->
-
 
 
 {{< custom-figure path="2018/rp/2018" description="Aufstellung des 2. Zuges auf dem Marktplatz" photographer="Rafael Pilarsky" year="2018">}}

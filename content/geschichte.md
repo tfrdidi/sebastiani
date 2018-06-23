@@ -30,6 +30,6 @@ Die Verehrung des Hl. Sebastian in Lengfurt lebte im Jahr 1866 erneut auf, als i
 
 Aus dieser Zeit stammen die heute noch geltenden Statuten, die den Ablauf des Sebastanifestes bis ins Einzelne regeln. Es ist davon auszugehen, dass seit 1866 das Fest in der festgelegten Form durch die Lengfurter begangen wurde. Selbst während des ersten Weltkrieges wurde in Lengfurt das Sebastinifest gefeiert:
 
-{{< figure src="/images/wachmanschaftTrommlerOld-thumb.jpg" caption="Eines der ältesten Fotos von 1914 oder 15: Die Wachmanschaft mit den Trommlern. Foto: bereitgestellt von Edwin Götzner (1914 oder 15)" link="/images/wachmanschaftTrommlerOld.jpg" >}}
+{{< custom-figure path="wachmanschaftTrommlerOld" description="Eines der ältesten Fotos vom Sebastianifest: Die Wachmanschaft mit den Trommlern" photographer="Edwin Götzner" year="1914 oder 15">}}
 
 Die einzige, heute noch nachweisbare Ausnahme ist die Zeit von 1943 bis 1950. Zunächst verboten die Nationalsozialisten und anschließend die Amerikaner als Besatzungsmacht den militärischen Aufzug mit Waffen und Marschmusik. Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen [Hauptmanns](/dienstgrade#hauptmann) Edmund Väth mit beiden Machthabern, konnte der Fortbestand der Feierlichkeiten erreicht werden.
