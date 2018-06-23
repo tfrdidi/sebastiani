@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: Datenschutz
 date: 2018-03-02 19:42:21 +0000
 featured_image: images/papier.jpg
 menu:
