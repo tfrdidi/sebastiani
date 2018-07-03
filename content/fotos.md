@@ -17,8 +17,6 @@ Das Sebastianifest wurde auch 2018 vom 20. bis zum 22. Januar gefeiert. Hier fin
 
 <!--more-->
 
-Test
-
 {{< custom-figure path="2018/rp/2018" description="Aufstellung des zweiten Zuges auf dem Marktplatz zum Karee. Links im Bild: Leutnant Peter Seitz" photographer="Rafael Pilarsky" year="2018">}}
 
 {{< custom-figure path="hauptmann" description="Hauptmann Oskar Aschauer führt auch in diesem Jahr die Manschaft" photographer="Rafael Pilarsky" year="2018">}}
