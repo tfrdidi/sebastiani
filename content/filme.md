@@ -1,8 +1,9 @@
 ---
 title: Filme
 date: 2018-07-04 19:25:30 +0000
-featured_image: "/uploads/images/geschichte.jpg"
-images: []
+images:
+- images/geschichte.jpg
+featured_image: images/geschichte.jpg
 url: "/filme"
 menu:
   main:
