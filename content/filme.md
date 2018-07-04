@@ -1,12 +1,19 @@
-+++
-date = "2018-07-04T19:25:30+00:00"
-featured_image = "/uploads/images/geschichte.jpg"
-images = []
-title = "Filme"
-[menu.main]
-weight = 3
+---
+title: Filme
+date: 2018-07-04 13:38:43 +0000
+images:
+- images/geschichte.jpg
+featured_image: images/geschichte.jpg
+url: "/filme"
+menu:
+  main:
+    identifier: Filme
+    weight: 4
+image_description: Aufstellung auf dem Marktplatz
+image_photographer: unbekannt
+image_year: "~1895"
 
-+++
+---
 ## 1976
 
 Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976. : 

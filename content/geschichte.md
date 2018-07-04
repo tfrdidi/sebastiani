@@ -1,6 +1,6 @@
 ---
 title: Geschichte
-date: 2018-02-17 13:38:43 +0000
+date: 2018-07-04 13:38:43 +0000
 images:
 - images/geschichte.jpg
 featured_image: images/geschichte.jpg
