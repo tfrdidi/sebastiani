@@ -8,6 +8,7 @@ url: "/fotos"
 menu:
   main:
     identifier: Fotos
+    weight: 2
 image_description: Aufstellung des 2. Zuges auf dem Marktplatz
 image_photographer: Rafael Pilarsky
 image_year: 2018

@@ -1,10 +1,11 @@
 ---
 title: Impressum
-date: 2018-03-02 20:42:21 +0100
+date: 2018-03-02 19:42:21 +0000
 type: page
 menu:
-  footer: {}
-featured_image: "images/papier.jpg"
+  footer:
+    weight: 1
+featured_image: images/papier.jpg
 
 ---
 Für das vorliegende Informationsangebot zeichnen folgende Einrichtung bzw. Personen verantwortlich im Sinne der einschlägigen gesetzlichen Bestimmungen:

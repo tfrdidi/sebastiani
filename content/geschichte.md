@@ -1,14 +1,16 @@
 ---
 title: Geschichte
-date: 2018-02-17 14:38:43 +0100
-images: ["images/geschichte.jpg"]
+date: 2018-02-17 13:38:43 +0000
+images:
+- images/geschichte.jpg
 featured_image: images/geschichte.jpg
 url: "/geschichte"
-menu: 
-    main:
-        identifier: "Geschichte"
-image_description: "Aufstellung auf dem Marktplatz"
-image_photographer: "unbekannt"
+menu:
+  main:
+    identifier: Geschichte
+    weight: 4
+image_description: Aufstellung auf dem Marktplatz
+image_photographer: unbekannt
 image_year: "~1895"
 
 ---

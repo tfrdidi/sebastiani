@@ -3,7 +3,8 @@ title: Datenschutz
 date: 2018-03-02 19:42:21 +0000
 featured_image: images/papier.jpg
 menu:
-  footer: {}
+  footer:
+    weight: 2
 
 ---
 Jede gute Website braucht eine Datenschutzerklärung? Ok, dann machen Sie sich auf etwas gefasst.
