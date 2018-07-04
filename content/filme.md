@@ -3,6 +3,8 @@ date = "2018-07-04T19:25:30+00:00"
 featured_image = ""
 images = []
 title = "Filme"
+[menu.main]
+weight = 1
 
 +++
 ## 1976

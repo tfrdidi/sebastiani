@@ -8,6 +8,7 @@ url: "/ablauf"
 menu:
   main:
     identifier: Ablauf
+    weight: 6
 image_description: Fähnrich und Hauptmann beim Fahne holen
 image_photographer: Rafael Pilarsky
 image_year: 2013
