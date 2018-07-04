@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/filme.md
 - content/neuigkeiten/test.md
