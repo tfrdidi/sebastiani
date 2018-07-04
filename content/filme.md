@@ -1,9 +1,8 @@
 ---
 title: Filme
-date: 2018-07-04 13:38:43 +0000
-images:
-- images/geschichte.jpg
-featured_image: images/geschichte.jpg
+date: 2018-07-04 19:25:30 +0000
+featured_image: "/uploads/images/geschichte.jpg"
+images: []
 url: "/filme"
 menu:
   main:
@@ -16,7 +15,7 @@ image_year: "~1895"
 ---
 ## 1976
 
-Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976. : 
+Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976:
 
 {{< youtube id="vw6IPZOUpiU" enablejsapi="1">}}
 
@@ -24,7 +23,7 @@ An dem Film haben Pfarrer Edgar Dinkel, Peter Schinner, Erich Kohlhepp, Inge Kir
 
 ## 2001
 
-2001 wurde eine umfassende Doku des Sebastifestes in Lengfurt gedreht: 
+2001 wurde eine umfassende Doku des Sebastifestes in Lengfurt gedreht:
 
 {{< youtube id="LFLPAkZbWpU" enablejsapi="1">}}
 
