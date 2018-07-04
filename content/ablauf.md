@@ -38,13 +38,15 @@ Bis zur Festandacht patrouilliert eine Wache vor der Fahne. Offiziere mit Schiff
 
 Nach dem Gottesdienst wird die Reliquie des Hl. Sebastian durch einen Kuss jedes einzelnen Soldaten verehrt. Mit Musik und Böllerschüssen ziehen die Soldaten wieder zum Marktplatz, der sich in der Zwischenzeit mit einigen hundert Zuschauern gefüllt hat. Hier kommt es dann zum Höhepunkt des Festes - dem Fahnenschwenken.
 
+## Sonntag – Fahnenschwenken
+
 Durch Exerzieren bilden die drei Züge sowie die vier bis sechs [Trommler](/dienstgrade#trommler) mit den beiden [Pionieren](/dienstgrade#pionier) ein Viereck, das sogenannte Karree. Nachdem die Musikkapelle das Lied: "Über den Wellen" angestimmt hat, tritt der [Fähnrich](/dienstgrade#fähnrich) in die Mitte des Karrees und schwenkt die Fahne zu den Klängen dieses Musikstückes.
 
 {{< custom-figure path="fahnenschwenken" description="Der Höhepunkt des Festes: Fähnrich Thomas Hahmann beim Fahnenschwenken im Karree" photographer="Raymond Roth" year="2017">}}
 
 ## Sonntag – Zapfenstreich
 
-Am Sonntagabend trifft man sich noch einmal zum Zapfenstreich. Dieser beginnt nach dem Läuten der Kirchturmglocken um 18:00 Uhr. 
+Am Sonntagabend trifft man sich noch einmal zum Zapfenstreich. Dieser beginnt nach dem Läuten der Kirchturmglocken um 18:00 Uhr.
 
 ## Sonntag – Festkonzert
 
@@ -58,4 +60,4 @@ Im Anschluss an den Zapfenstreich folgt ein Festabend mit einem kostenlosen Konz
 
 Um 9:00 Uhr findet ein Gottesdienst für die verstorbenen Vereinsmitglieder statt. Auch hier erinnern die [Trommler](/dienstgrade#trommler) mit zwei Märschen durch das Altort. Angeführt von den Trommlern in Gehröcken marschieren die übrigen Männer in Zivil, jedoch mit einem Zylinder. Dem Gottesdienst folgt die Kassenablage. Damit klingt das Fest aus.
 
-##
+## 
