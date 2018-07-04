@@ -28,6 +28,8 @@ In der Lengfurter Kirchenrechnung der Jahre 1638 bzw. 39 ist unter "Ausgabegeld"
 
 Der Hintergrund des Fahnenschwenkens ist das Sammeln der Mannschaft um die jeweilige Fahne der militärischen Einheit. Solange die Fahne im Kampf gehalten wird, ist die Schlacht auch noch nicht verloren. Für die kämpfende Mannschaft stellte die Fahne auch ein weithin sichtbares Zeichen zur Orientierung dar. Im Mittelalter wurde das Fahnenschwingen bei religiösen, zivilen und militärischen Feierlichkeiten angewandt.
 
+## 1866
+
 Die Verehrung des Hl. Sebastian in Lengfurt lebte im Jahr 1866 erneut auf, als innerhalb von 24 Stunden zwei Todesfälle durch die Cholera im Ort zu beklagen waren. Die Lengfurter erinnerten sich an die Hilfe des Hl. Sebastian in früherer Zeit und erneuerten das Gelübde. Auch die Cholera erlosch.
 
 Aus dieser Zeit stammen die heute noch geltenden Statuten, die den Ablauf des Sebastanifestes bis ins Einzelne regeln. Es ist davon auszugehen, dass seit 1866 das Fest in der festgelegten Form durch die Lengfurter begangen wurde. Selbst während des ersten Weltkrieges wurde in Lengfurt das Sebastinifest gefeiert:
