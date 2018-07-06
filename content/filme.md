@@ -20,7 +20,7 @@ Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976:
 
 {{< youtube id="vw6IPZOUpiU" enablejsapi="1">}}
 
-An dem Film haben Pfarrer Edgar Dinkel, Peter Schinner, Erich Kohlhepp, Inge Kirsch, Ilse Schächer, Helmut Schulze und Bernhard Kohlhepp gewirkt.
+An dem Film haben Pfarrer Edgar Dinkel, Peter Schinner, Erich Kohlhepp, Inge Kirsch, Ilse Schächer, Helmut Schulze, Bernhard Kohlhepp und Oswald Schächer gewirkt.
 
 ## 2001
 
