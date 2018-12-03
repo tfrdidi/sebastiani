@@ -1,4 +1,5 @@
 ---
+label: neueigkeit
 hide_body: false
 is_partial: false
 fields:
@@ -23,6 +24,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/neuigkeiten/test.md
 - content/filme.md
 - content/neuigkeiten/mehr-aktuelle-fotos.md
-- content/neuigkeiten/test.md

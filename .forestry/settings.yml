@@ -4,15 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/neuigkeiten
+  match: "*"
+- type: directory
+  path: content/neuigkeiten
   label: Neuigkeiten
   create: all
-- path: content/footer
+  match: "**/*"
+- type: directory
+  path: content/footer
   label: Footer
   create: all
+  match: "**/*"
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static
 public_path: "/uploads"
 front_matter_path: ''
