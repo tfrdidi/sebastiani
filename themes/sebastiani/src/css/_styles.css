@@ -34,6 +34,11 @@ figcaption p {
     transition: transform 0.6s;
 }
 
+.customFigure img {
+    max-height: 550px;
+    width: auto;
+    margin: auto;
+}
 
 /* from theme update */
 #TableOfContents ul li {
