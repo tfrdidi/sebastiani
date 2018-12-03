@@ -16,8 +16,6 @@ image_year: 2012
 ---
 Es gibt, nach Vorgabe des Militärs 1866, im Sebastianiverein viel verschiedene Posten und Aufgaben. Allen voran der Hauptmann:
 
-<!--more-->
-
 ## Hauptmann
 
 {{< custom-figure path="hauptmann" description="Hauptmann Oskar Aschauer" photographer="Rafael Pilarsky" year="2018">}}

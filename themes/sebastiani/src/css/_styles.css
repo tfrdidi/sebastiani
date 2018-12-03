@@ -9,6 +9,7 @@ ul {
 
 figure {
     margin: 0;
+    text-align: center;
 }
 
 figcaption {
@@ -32,3 +33,10 @@ figcaption p {
     transform: scale(1.03);
     transition: transform 0.6s;
 }
+
+
+/* from theme update */
+#TableOfContents ul li {
+    margin-bottom: 1em;
+  }
+  
