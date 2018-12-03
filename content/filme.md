@@ -14,6 +14,7 @@ image_photographer: unbekannt
 image_year: "~1895"
 
 ---
+
 ## 1976
 
 Die älteste Video-Dokumentation von Erich Schächer stammt aus dem Jahre 1976:
