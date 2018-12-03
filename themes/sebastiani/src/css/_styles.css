@@ -40,6 +40,10 @@ figcaption p {
     margin: auto;
 }
 
+form textarea {
+    width: auto;
+}
+
 /* from theme update */
 #TableOfContents ul li {
     margin-bottom: 1em;
