@@ -19,7 +19,7 @@ Einige neue Bilder wurden hochgeladen. An dieser Stelle noch mal ein herzliches 
 
 ## CMS/Theme
 
-![Hugo](http://pisarenko.net/images/hugo-logo.png)
+![Hugo](/images/tec/hugo.png)
 Wir sind nun weg von meinem selbst gebauten [Mini-Java-CMS](https://github.com/tfrdidi/sebastiani-lengfurt.de) hin zum Static-Site-Generator-Framework [Hugo](https://gohugo.io/).
 
 Die Vorlage für das Theme bildet [Ananke](https://themes.gohugo.io/gohugo-theme-ananke/), allerdings mit einigen Änderungen.
