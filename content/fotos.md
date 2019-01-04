@@ -27,3 +27,5 @@ Das Sebastianifest wurde auch 2018 vom 20. bis zum 22. Januar gefeiert. Hier fin
 {{< custom-figure path="feldwebel" description="Zum Glück gibt es eine eindeutige Linie an der man sich zur Aufstellung orientieren kann. Ganz rechts im Bild: Wachhabender Rüdiger Schreck in seinem letzten Jahr als Wachhabender" photographer="Rafael Pilarksy" year="2018">}}
 
 {{< custom-figure path="trommler" description="Die Trommler, hintere Reihe: Christian Thamm und Patrick Seelein, vordere Reihe: Felix Hahmann, Julian Seelein und Lukas Hahmann" photographer="Rafael Pilarksy" year="2018">}}
+
+{{< custom-figure path="2018/oa/offiziere" description="Alle Offiziere nach dem Festgottestdienst 2018 an der Dreifaltigkeitssäule" photographer="Oskar Aschauer" year="2018">}}
