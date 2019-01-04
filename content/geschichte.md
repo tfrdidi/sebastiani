@@ -18,7 +18,7 @@ Das Sebastianifest wird alljährlich am Wochenende vor oder nach dem Gedenktag d
 
 <!--more-->
 
-{{< custom-figure path="wachmanschaftTrommlerOld" description="Eines der ältesten Fotos vom Sebastianifest: Die Wachmanschaft mit den Trommlern" photographer="Edwin Götzner" year="1914 oder 15">}}
+{{< custom-figure path="wachmannschaftTrommlerOld" description="Eines der ältesten Fotos vom Sebastianifest: Die Wachmannschaft mit den Trommlern" photographer="Edwin Götzner" year="1914 oder 15">}}
 
 Es ist durchaus möglich, dass die Verehrung des Hl. Sebastian in Lengfurt noch weiter in die Geschichte zurückgeht. Bereits im Mittelalter gab es in vielen Orten der Region sogenannte Sebastiani-Schützenbruderschaften. Viele Ortschaften hatten, wie auch Lengfurt, eine Dorfmauer und zur Verteidigung eine "Bürgerwehr".
 

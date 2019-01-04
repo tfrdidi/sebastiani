@@ -66,6 +66,6 @@ Es gibt bis zu sechs Trommler, die abwechselnd mit der Musikkapelle den Takt fü
 
 ## Wachmannschaft
 
-{{< custom-figure path="wachmanschaft" description="Die Wachmanschaft mit Wachhabendem Rüdiger Schreck und Leutnant Thomas Baumann" photographer="Oskar Aschauer" year="2018">}}
+{{< custom-figure path="wachmannschaft" description="Die Wachmannschaft mit Wachhabendem Rüdiger Schreck und Leutnant Thomas Baumann" photographer="Oskar Aschauer" year="2018">}}
 
 Die Soldaten des dritten Zuges bilden die Wachmannschaft. Sie tragen Zylinder und Vorderladergewehre ohne Bajonett. Die Wachmannschaft wird mit den Jüngsten des Vereines besetzt. Ihre besondere Aufgabe ist die Bewachung der Vereinsfahne an der Dreifaltigkeitssäule.

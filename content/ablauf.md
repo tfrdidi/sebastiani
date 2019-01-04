@@ -20,7 +20,7 @@ Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Geden
 
 Der Auftakt des Festes ist der Zapfenstreich um 18:30 Uhr. Die [Trommler](/dienstgrade#trommler), die Musikkapelle und die [Wachmannschaft](/dienstgrade#wachmannschaft) treffen sich nach Einbruch der Dunkelheit am Marktplatz.
 
-{{< custom-figure path="zapfenstreich" description="Die Musikkappelle begleitet von den Fackelträgern der Wachmanschaft" photographer="Rudi Baumeister" year="2017">}}
+{{< custom-figure path="zapfenstreich" description="Die Musikkappelle begleitet von den Fackelträgern der Wachmannschaft" photographer="Rudi Baumeister" year="2017">}}
 
 Einem Trommelwirbel, auch genannt "die Locke", folgt das Musikstück "Großer Zapfenstreich". Danach marschieren alle Versammelten unter Führung des [Tambour-Majors](/dienstgrade#tambour-major) durch den Altort, wobei sich Musikkapelle und Trommler abwechseln. Anschließend trifft man sich zu einem gemütlichen Abend in einer Weinwirtschaft.
 
