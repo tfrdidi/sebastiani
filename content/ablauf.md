@@ -16,6 +16,8 @@ image_year: 2013
 ---
 Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag des heiligen Sebastian (20. Januar) am nächsten ist:
 
+![Ablauf 2019](/images/2019/ablauf-2019.jpg)
+
 ## Samstag – Zapfenstreich
 
 Der Auftakt des Festes ist der Zapfenstreich um 18:30 Uhr. Die [Trommler](/dienstgrade#trommler), die Musikkapelle und die [Wachmannschaft](/dienstgrade#wachmannschaft) treffen sich nach Einbruch der Dunkelheit am Marktplatz.
