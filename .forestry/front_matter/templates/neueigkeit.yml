@@ -25,5 +25,6 @@ fields:
   default: ''
 pages:
 - content/neuigkeiten/test.md
+- content/neuigkeiten/gewehrausgaben.md
 - content/filme.md
 - content/neuigkeiten/mehr-aktuelle-fotos.md
