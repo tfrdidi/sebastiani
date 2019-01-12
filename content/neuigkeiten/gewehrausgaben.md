@@ -1,6 +1,5 @@
 +++
 date = "2019-01-10T23:00:00+00:00"
-draft = true
 featured_image = "/uploads/images/2018/rp/2018-thumb.jpg"
 images = []
 title = "Gewehrausgaben"
