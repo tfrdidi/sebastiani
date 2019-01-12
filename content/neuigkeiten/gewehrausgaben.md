@@ -1,6 +1,6 @@
 +++
 date = "2019-01-10T23:00:00+00:00"
-featured_image = "/images/wachmannschaft.jpg"
+featured_image = "/images/wachmannschaftTrommlerOld.jpg"
 images = []
 title = "Gewehrausgaben"
 
