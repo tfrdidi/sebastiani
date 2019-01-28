@@ -5,18 +5,16 @@ images:
 - images/ablauf.jpg
 featured_image: images/ablauf.jpg
 url: "/ablauf"
+image_description: Fähnrich und Hauptmann beim Fahne holen
+image_photographer: Rafael Pilarsky
+image_year: 2013
 menu:
   main:
     identifier: Ablauf
     weight: 6
-image_description: Fähnrich und Hauptmann beim Fahne holen
-image_photographer: Rafael Pilarsky
-image_year: 2013
 
 ---
-Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag des heiligen Sebastian (20. Januar) am nächsten ist:
-
-![Ablauf 2019](/images/2019/ablauf-2019.jpg)
+Die offizielle Zeremonie beginnt immer am Samstag des Wochenendes, das dem Gedenktag des heiligen Sebastian (20. Januar) am nächsten ist. Das 388. Fest beginnt am Samstag, den 18.01.2020 und endet am Montag, den 20.1.2020.
 
 ## Samstag – Zapfenstreich
 
