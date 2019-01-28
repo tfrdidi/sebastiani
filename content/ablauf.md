@@ -1,6 +1,6 @@
 ---
 title: Ablauf des Festes
-date: 2019-01-03 13:38:43 +0000
+date: 2019-01-27 13:38:43 +0000
 images:
 - images/ablauf.jpg
 featured_image: images/ablauf.jpg
