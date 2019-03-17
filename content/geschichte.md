@@ -46,7 +46,7 @@ Die einzige, heute noch nachweisbare Ausnahme ist die Zeit von 1943 bis 1950. Zu
 
 Für seine Verdienste wurde Edmund Väth zum Ehrenhauptmann ernannt. Hier die Bilder von ihm aus dem Archiv:
 
-{{< custom-figure path="1963-fahne-aufziehen" description="Hauptmann Edmund Väth und den Fähnrich Georg Behl beim Fahne holen. Wie an der Uhr der Sparkasse zu sehen ist, ist es gerade 10:30 Uhr, also nach der Kirche am Morgen. Links im Bild sind Joseph Brönner, Kasper Spiegel und Wilhelm Hoffmann zu sehen." photographer="Zur Verfügung gestellt von Edwin Götzner" year="1963">}}
+{{< custom-figure path="geschichte/1963-fahne-aufziehen" description="Hauptmann Edmund Väth und den Fähnrich Georg Behl beim Fahne holen. Wie an der Uhr der Sparkasse zu sehen ist, ist es gerade 10:30 Uhr, also nach der Kirche am Morgen. Links im Bild sind Joseph Brönner, Kasper Spiegel und Wilhelm Hoffmann zu sehen." photographer="Zur Verfügung gestellt von Edwin Götzner" year="1963">}}
 
 
 {{< custom-figure path="geschichte/F19632" description="Hauptmann Edmund Väth vor seiner Mannschaft." photographer="Zur Verfügung gestellt von Edwin Götzner" year="1963">}}
