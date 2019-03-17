@@ -40,6 +40,8 @@ Aus dieser Zeit stammen die heute noch geltenden Statuten, die den Ablauf des Se
 
 {{< custom-figure path="wachmannschaftTrommlerOld" description="Eines der ältesten Fotos vom Sebastianifest: Die Wachmannschaft mit den Trommlern" photographer="Zur Verfügung gestellt von Edwin Götzner" year="1914 oder 15">}}
 
+## Zweiter Weltkrieg
+
 Die einzige, heute noch nachweisbare Ausnahme ist die Zeit von 1943 bis 1950. Zunächst verboten die Nationalsozialisten und anschließend die Amerikaner als Besatzungsmacht den militärischen Aufzug mit Waffen und Marschmusik. Nachdem die funktionsfähigen Waffen unbrauchbar gemacht wurden und durch geschicktes und zähes Verhandeln des damaligen [Hauptmanns](/dienstgrade#hauptmann) Edmund Väth mit beiden Machthabern, konnte der Fortbestand der Feierlichkeiten erreicht werden.
 
 Für seine Verdienste wurde Edmund Väth zum Ehrenhauptmann ernannt. Hier die Bilder von ihm aus dem Archiv:
