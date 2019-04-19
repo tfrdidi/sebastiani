@@ -12,9 +12,9 @@ url = "/neuigkeiten/"
 weight = 1
 
 [[menu.main]]
-identifier = "Fotos"
-name = "Fotos"
-url = "/fotos/"
+identifier = "Bilder"
+name = "Bilder"
+url = "/bilder/"
 weight = 2
 
 [params]
