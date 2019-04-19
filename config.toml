@@ -4,11 +4,19 @@ baseURL = "https://sebastiani-lengfurt.de"
 languageCode = "de-de"
 theme = "sebastiani"
 title = "Sebastiani Lengfurt"
+
 [[menu.main]]
 identifier = "Neuigkeiten"
 name = "Neuigkeiten"
 url = "/neuigkeiten/"
 weight = 1
+
+[[menu.main]]
+identifier = "Fotos"
+name = "Fotos"
+url = "/fotos/"
+weight = 2
+
 [params]
 body_classes = "avenir bg-white"
 facebook = "https://www.facebook.com/SebastianiLengfurt"
