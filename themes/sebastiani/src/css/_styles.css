@@ -40,6 +40,10 @@ figcaption p {
     margin: auto;
 }
 
+.customFigure {
+    margin-bottom: 40px;
+}
+
 form textarea {
     width: auto;
 }
