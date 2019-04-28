@@ -27,5 +27,7 @@ Da ist es schon fast verwunderlich, dass Bilder wie dieses Foto der Offiziere vo
 An dieser Stelle ein herzliches Dankeschön an Wilmar Wolf an die Arbeit diesen Ordner über die Zeit zu füllen!
 Außerdem dafür, dass der Inhalt in digitaler Form dem Sebastiani-Archiv zugeführt werden darf!
 
+Weitere Fotos findet ihr unter [Bilder](/bilder/).
+
 
 
