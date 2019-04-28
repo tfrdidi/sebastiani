@@ -8,6 +8,8 @@ title = "Ordner von Wilmar Wolf digitalisiert"
 Nach dem Sebastianifest 2019 durfte ich einen umfangreichen Ordner von Wilmar Wolf zur Digitalisierung entgegen nehmen.
 Er enthält 151 alte Bilder, Dokumente und Zeitungsartikel:
 
+<!--more-->
+
 {{< custom-figure path="ww/WW153" description="151 eingescannte Seiten durften dem Sebastiani-Archiv hinzugefügt werden" photographer="Wilmar Wolf" year="2019">}}
 
 {{< custom-figure path="ww/WW152" description="Der Ordner enthält neben Fotos auch viele, teils über 50 Jahre alte Zeitungsausschnitte" photographer="Wilmar Wolf" year="2019">}}
