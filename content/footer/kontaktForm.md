@@ -14,6 +14,6 @@ Möchtest du dem Sebastiani Verein beitreten?
 
 Hast du eine andere Frage?
 
-Wir freuen uns von dir zu hören:
+Wir freuen uns von dir zu hören!
 
 {{< form-contact >}}

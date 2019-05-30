@@ -1,12 +1,19 @@
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" action="/formsent" netlify>
     <p>
-        <label>Deine E-Mail-Adresse:</br> <input type="email" name="email" required/></label>
+        <div class="group">
+            <input type="text" id="e-mail" required="required"/>
+            <label for="e-mail">Deine E-Mail Adresse</label>
+            <div class="bar"></div>
+        </div>
     </p>
     <p>
-        <label>Dein Anliegen:</br> <textarea name="message" required></textarea></label>
+        <div class="tmp">Dein Anliegen</div>
+    </p>
+    <p>
+        <textarea name="message" required></textarea>
     </p>
     <div data-netlify-recaptcha></div>
     <p>
-        <button type=”submit”>Abschicken</button>
+        <button type="submit" class="btn"><span>Abschicken</span></button>
     </p>
 </form>
