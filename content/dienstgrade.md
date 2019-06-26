@@ -42,13 +42,13 @@ Der Tambour-Major marschiert vor der Kapelle. Er gibt mit dem Tambour-Stab den T
 
 ## Fähnrich
 
-{{< custom-figure path="fähnrich" description="Fähnrich Thomas Hahmann beim Fahneschwenken im Karree" photographer="Raymond Roth" year="2017">}}
+{{< custom-figure path="2017/rr/F-2142" description="Fähnrich Thomas Hahmann beim Fahneschwenken im Karree" photographer="Raymond Roth" year="2017">}}
 
 Der Fähnrich trägt die Vereinsfahne. Er steckt diese jeweils in der Kirche und an der Dreifaltigkeitssäule auf. Außerdem schwenkt er die Fahne auf dem Marktplatz zu dem Musikstück "Über den Wellen", dem Höhepunkt des Festes.
 
 ## Feldwebel
 
-{{< custom-figure path="feldwebel" description="Feldwebel/Wachhabender Rüdiger Schreck" photographer="Rafael Pilarksy" year="2018">}}
+{{< custom-figure path="2018/rp/F-2460" description="Feldwebel/Wachhabender Rüdiger Schreck" photographer="Rafael Pilarksy" year="2018">}}
 
 Für jeden Zug gibt es einen Feldwebel als stellvertretenden Zugführer. Der wachhabende Unteroffizier ist für die [Wachmannschaft](#wachmannschaft) verantwortlich. Er kümmert sich um die Ausbildung der jungen Mitglieder des Sebastiani-Vereins. Außerdem teilt er die Wache der Fahne am Sonntag ein. In der Fahnensektion läuft ein Feldwebel hinter dem [Fähnrich](#fähnrich). Alle Feldwebel tragen Zylinder und Säbel.
 

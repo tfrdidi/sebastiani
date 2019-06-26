@@ -42,7 +42,7 @@ Nach dem Gottesdienst wird die Reliquie des Hl. Sebastian durch einen Kuss jedes
 
 Durch Exerzieren bilden die drei Züge sowie die vier bis sechs [Trommler](/dienstgrade#trommler) mit den beiden [Pionieren](/dienstgrade#pionier) ein Viereck, das sogenannte Karree. Nachdem die Musikkapelle das Lied: "Über den Wellen" angestimmt hat, tritt der [Fähnrich](/dienstgrade#fähnrich) in die Mitte des Karrees und schwenkt die Fahne zu den Klängen dieses Musikstückes.
 
-{{< custom-figure path="fahnenschwenken" description="Der Höhepunkt des Festes: Fähnrich Thomas Hahmann beim Fahnenschwenken im Karree" photographer="Raymond Roth" year="2017">}}
+{{< custom-figure path="2017/rr/F-2142" description="Der Höhepunkt des Festes: Fähnrich Thomas Hahmann beim Fahnenschwenken im Karree" photographer="Raymond Roth" year="2017">}}
 
 ## Sonntag – Zapfenstreich
 
@@ -50,13 +50,13 @@ Am Sonntagabend trifft man sich noch einmal zum Zapfenstreich. Dieser beginnt na
 
 ## Sonntag – Festkonzert
 
-{{< custom-figure path="2017/rb/festkonzert" description="Neben vielen Stücken der Musikkapelle gibt es an dem Abend auch die Ehrungen. Hier wurde Tambourmajor Bernhard Kohlhepp geehrt" photographer="Rudi Baumeister" year="2017">}}
+{{< custom-figure path="2017/rb/F-2353" description="Neben vielen Stücken der Musikkapelle gibt es an dem Abend auch die Ehrungen. Hier wurde Tambourmajor Bernhard Kohlhepp geehrt" photographer="Rudi Baumeister" year="2017">}}
 
 Im Anschluss an den Zapfenstreich folgt ein Festabend mit einem kostenlosen Konzert der [Musikkapelle Lengfurt](https://www.musikale.de/) und Ehrungen von Mitgliedern des Vereins. Zu diesem Festabend sind alle eingeladen; der Eintritt ist frei! Es gibt verschiedene warme Gerichte sowie alle Arten von Getränken.
 
 ## Montag – Kassenablage
 
-{{< custom-figure path="2017/rr/kassenablage" description="Kassenablage im Weinhaus Zorn. Bernhard Kohlhepp trägt gerade seinen musikalischen Jahresrückblick vor." photographer="Raymond Roth" year="2017">}}
+{{< custom-figure path="2017/rr/F-2199" description="Kassenablage im Weinhaus Zorn. Bernhard Kohlhepp trägt gerade seinen musikalischen Jahresrückblick vor." photographer="Raymond Roth" year="2017">}}
 
 Um 9:00 Uhr findet ein Gottesdienst für die verstorbenen Vereinsmitglieder statt. Auch hier erinnern die [Trommler](/dienstgrade#trommler) mit zwei Märschen durch das Altort. Angeführt von den Trommlern in Gehröcken marschieren die übrigen Männer in Zivil, jedoch mit einem Zylinder. Dem Gottesdienst folgt die Kassenablage. Damit klingt das Fest aus.
 
