@@ -59,5 +59,3 @@ Im Anschluss an den Zapfenstreich folgt ein Festabend mit einem kostenlosen Konz
 {{< custom-figure path="2017/rr/F-2199" description="Kassenablage im Weinhaus Zorn. Bernhard Kohlhepp trägt gerade seinen musikalischen Jahresrückblick vor." photographer="Raymond Roth" year="2017">}}
 
 Um 9:00 Uhr findet ein Gottesdienst für die verstorbenen Vereinsmitglieder statt. Auch hier erinnern die [Trommler](/dienstgrade#trommler) mit zwei Märschen durch das Altort. Angeführt von den Trommlern in Gehröcken marschieren die übrigen Männer in Zivil, jedoch mit einem Zylinder. Dem Gottesdienst folgt die Kassenablage. Damit klingt das Fest aus.
-
-## 
