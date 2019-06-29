@@ -28,7 +28,7 @@ Einem Trommelwirbel, auch genannt "die Locke", folgt das Musikstück "Großer Za
 
 Der Sonntag beginnt um 6:00 Uhr mit Böllerschüssen. Bläser und [Trommler](/dienstgrade#trommler) besuchen mit dem Weckruf die Offiziere. Der [Hauptmann](/dienstgrade#hauptmann) begibt sich anschließend zum Ortspfarrer und bittet um das Gebet und den kirchlichen Segen, damit das Fest gelinge. Um 8:15 Uhr und um 8:30 Uhr erinnern die Trommler mit einem Marsch durch das Altort an den Beginn des Festes. Musikkapelle und Soldaten finden sich bis 8:45 Uhr am Marktplatz zur Parade ein. Der Hauptmann begrüßt die Männer des Sebastianivereins und erinnert an das abgelegte Gelöbnis der Lengfurter Vorfahren. Unter den Klängen des Bayerischen Defiliermarsches ziehen sie dann in die Pfarrkirche ein. Der Festgottesdienst beginnt um 9:15 Uhr.
 
-{{< custom-figure path="kirche" description="Die Soldaten kurz nach dem Einzug in die Kirche" photographer="Rafael Pilarsky" year="2013">}}
+{{< custom-figure path="2013/rp/F-584" description="Die Soldaten kurz nach dem Einzug in die Kirche" photographer="Rafael Pilarsky" year="2013">}}
 
 Anschließend wird wieder zum Marktplatz marschiert. Dabei werden die Soldaten von den lauten Böllerschüssen des Kanoniers begleitet. Am Marktplatz eingetroffen, wird die Vereinsfahne neben der Figur des Hl. Sebastian an der Dreifaltigkeitssäule angebracht. Anschließend übernimmt die [Wachmannschaft](/dienstgrade#wachmannschaft) die Bewachung der Vereinsfahne bis zur Nachmittagsandacht. Nachdem die Wache aufgezogen ist, lädt der Hauptmann alle Anwesenden zum gemeinsamen Mittagessen ein.
 

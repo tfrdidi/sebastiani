@@ -18,7 +18,7 @@ Es gibt, nach Vorgabe des Militärs 1866, im Sebastianiverein viel verschiedene 
 
 ## Hauptmann
 
-{{< custom-figure path="hauptmann" description="Hauptmann Oskar Aschauer" photographer="Rafael Pilarsky" year="2018">}}
+{{< custom-figure path="2018/rp/F-2469" description="Hauptmann Oskar Aschauer" photographer="Rafael Pilarsky" year="2018">}}
 
 Der Hauptmann ist der ranghöchste Offizier und Vorstand des Vereins. Außerdem vertritt er den Verein nach außen hin. Er ist verantwortlich für den alljährlichen Festablauf und kommandiert die Soldaten. Seine Erkennungszeichen sind der Säbel, der Schiffshut, die 3 Streifen auf dem Gehrock und die 4 Sterne auf den Schulterstücken.
 
