@@ -24,6 +24,7 @@ fields:
   default: ''
 pages:
 - content/filme.md
+- content/neuigkeiten/ablauf-2020.md
 - content/neuigkeiten/gewehrausgaben.md
 - content/neuigkeiten/mehr-aktuelle-fotos.md
 - content/neuigkeiten/test.md
