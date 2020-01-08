@@ -1,7 +1,6 @@
 ---
 label: neueigkeit
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -24,7 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/neuigkeiten/test.md
-- content/neuigkeiten/gewehrausgaben.md
 - content/filme.md
+- content/neuigkeiten/gewehrausgaben.md
 - content/neuigkeiten/mehr-aktuelle-fotos.md
+- content/neuigkeiten/test.md
