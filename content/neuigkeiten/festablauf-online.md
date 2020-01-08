@@ -1,11 +1,10 @@
 +++
-date = 2019-01-03T13:13:23Z
-draft = true
+date = 2019-01-07T13:13:23Z
 featured_image = "images/start.jpg"
 images = []
-title = "Festablauf online"
+title = "Festablauf 2020"
 
 +++
-Den Festablauf des 387. Sebastianifestes findet ihr hier:
+Den Festablauf des 388. Sebastianifestes findet ihr hier:
 
-![hier](/images/2019/ablauf-2019.jpg)
+![](/2020/01/08/Ablauf2020.png)
