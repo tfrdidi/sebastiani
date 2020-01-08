@@ -1,5 +1,5 @@
 +++
-date = 2019-01-07T13:13:23Z
+date = 2020-01-08T13:13:23Z
 featured_image = "images/start.jpg"
 images = []
 title = "Festablauf 2020"
