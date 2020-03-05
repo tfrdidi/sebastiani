@@ -22,3 +22,7 @@ body_classes = "avenir bg-white"
 facebook = "https://www.facebook.com/SebastianiLengfurt"
 featured_image = "/images/start.jpg"
 github = "https://github.com/tfrdidi/sebastiani"
+
+[privacy.youtube]
+    disable = true
+    privacyEnhanced = true
