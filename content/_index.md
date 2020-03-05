@@ -21,6 +21,4 @@ Das Fest wird jedes Jahr mit Fackelzug, militärischem Aufzug, Fahnenschwenken, 
 
 Der Sebastianiverein, dessen [Geschichte](/geschichte) in der Umgebung seines Gleichen sucht, erfreut sich unter den Lengfurtern nach wie vor großer Beliebtheit. Das Gelübde wird seit über 384 Jahren gepflegt und aktiv weitergegeben.
 
-Das nächste Fest beginnt am Samstag, den **18. Januar 2020**, mit dem Fackelzug. Es endet am Montag, den 20. Januar, mit dem Gottesdienst und der Kassenablage.
-
-![Ablauf Sebastiani Lengfurt 2020](/2020/01/08/Ablauf2020.png "Ablauf Sebastiani Lengfurt 2020")
+Das nächste Fest beginnt am Samstag, den **23. Januar 2021**, mit dem Fackelzug. Es endet am Montag, den 25. Januar, mit dem Gottesdienst und der Kassenablage.
