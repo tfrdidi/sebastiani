@@ -24,5 +24,5 @@ featured_image = "/images/start.jpg"
 github = "https://github.com/tfrdidi/sebastiani"
 
 [privacy.youtube]
-    disable = true
-    privacyEnhanced = true
+disable = false
+privacyEnhanced = true
