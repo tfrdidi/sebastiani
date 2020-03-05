@@ -26,3 +26,9 @@ github = "https://github.com/tfrdidi/sebastiani"
 [privacy.youtube]
 disable = false
 privacyEnhanced = true
+
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = true
+useSessionStorage = true
