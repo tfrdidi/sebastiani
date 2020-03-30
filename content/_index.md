@@ -4,7 +4,7 @@ date: 2019-01-28T13:30:47.000+00:00
 weight: "10"
 images:
 - images/start.jpg
-featured_image: images/start.jpg
+featured_image: images/nachbarschaftshilfe.jpg
 image_description: Aufstellung auf dem Marktplatz
 image_photographer: Rafael Pilarsky
 image_year: "2018"
