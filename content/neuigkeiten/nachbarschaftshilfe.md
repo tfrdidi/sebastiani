@@ -1,6 +1,5 @@
 +++
 date = 2019-06-27T13:13:23Z
-draft = true
 featured_image = "images/nachbarschaftshilfe.jpg"
 images = []
 title = "Nachbarschaftshilfe"
