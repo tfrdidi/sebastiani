@@ -3,32 +3,16 @@ date = 2019-06-27T13:13:23Z
 draft = true
 featured_image = "images/2019/bhk/F-2905.jpg"
 images = []
-title = "Projektwoche \"Herzenssachen\""
+title = "Nachbarschaftshilfe"
 
 +++
-Die [Grundschule Triefenstein](http://www.grundschule-triefenstein.de) hat in diesem Jahr die Projektwoche "Herzenssachen" für ihre Kinder durchgeführt.
-Bei dieser tollen Veranstaltung haben ehrenamtlich engagierte Erwachsene sich und ihre Herzenssache vorgestellt.
-<!--more-->
-Das Spektrum war sehr vielfältig: so gab es z.B. einen Besuch im SOS Kinderdorf, die Wasserwacht hat sich und ihre Arbeit vorgestellt und eine Ordensschwester stand den Kindern für ihre Fragen offen.
 
-Unsere Herzenssache, das Sebastianifest, durfte bei dieser einmaligen Gelegenheit natürlich nicht fehlen.
-Gemeinsam mit Christian Greser und in voller Montur haben wir uns den sehr interessierten Dritt- und Viertklässlern am Donnerstag Vormittag vorgestellt:
+Wer hätte gedacht, dass das Thema Seuchen in unserer Zeit uns so schnell wieder einholt?
 
-{{< custom-figure path="2019/bhk/F-2906" description="Mit Trommelschlägen, Gewehr und Säbel sind wir in die Klasse gekommen" photographer="Fr. Bierögel-Hering/Fr. Kuhn" year="2019">}}
+In diesen schwierigen Zeiten möchten wir uns auf unsere Wurzeln besinnen und allen, die auf Hilfe angewiesen sind durch **Einkäufe, Botengänge** oder ähnliches zu unterstützen. Das Beschränkt sich nicht nur auf Lengfurt sonder auf die **gesamte Gemeinde Triefenstein**.
 
-Einige der Viertklässler kannten das Fest, vielen durften wir jedoch an dem Tag etwas völlig neues präsentieren:
+Dabei sind wir auf alle angewiesen! Falls Sie aktuell keine Hilfe benötigen, **erzählen Sie es bitte weiter**, falls sie selbst Hilfe benötigen, wenden sie sich bitte an:
 
-{{< custom-figure path="2019/bhk/F-2905" description="Nach dem Einmarsch hatten wir die volle Aufmerksamkeit der Kinder" photographer="Fr. Bierögel-Hering/Fr. Kuhn" year="2019">}}
+Werner Seitz, Tel. [**01512 8818311**](tel:015128818311 "01512 8818311") oder
 
-Wir hatten einige Bilder und auch einen kurzen Film vom Fest mit dabei:
-
-{{< custom-figure path="2019/bhk/F-2907" description="In der dritten Klasse gab es sehr viele interessierte Fragen" photographer="Fr. Bierögel-Hering/Fr. Kuhn" year="2019">}}
-
-Die Kinder wollten natürlich wissen wo wir auf den Fotos waren:
-
-{{< custom-figure path="2019/bhk/F-2908" description="45 Minuten geügten kaum um die Fragen der Drittklässler zu beantworten" photographer="Fr. Bierögel-Hering/Fr. Kuhn" year="2019">}}
-
-Wir möchten uns an dieser Stelle bei den Lehrern und Direktor Erdmann für die einmalige Möglichkeit bedanken unsere Herzenssache den Kindern präsentieren zu dürfen.
-Es würde uns freuen wenn diese Projektwoche auch in Zukunft durchgeführt wird.
-
-Weitere Infos zur Projektwoche gibt's auf der [Homepage der Grundschule](http://www.grundschule-triefenstein.de/2019/06/27/donnerstag-projektwoche-herzenssachen/).
+Thomas Hahmann, Tel. [**09395 8788232**](tel: 093958788232 "09395 8788232")
