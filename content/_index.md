@@ -11,6 +11,8 @@ image_year: "2018"
 type: page
 
 ---
+Der Sebastianiverein unterstützt in der Corona-Zeit die **Nachbarschaftshilfe** in Triefenstein! Mehr Infos gibt es [hier](/neuigkeiten/nachbarschaftshilfe/).
+
 Das Sebastiani-Fest wird alljährlich am Wochenende vor oder nach dem Gedenktag des Hl. Sebastian, dem 20. Januar, gefeiert. Es geht auf ein Gelübde der Lengfurter Bevölkerung aus dem Pestjahr 1632 zurück. Auf Grund der Fürbitte an den Hl. Sebastian soll damals die Pest gewichen sein. Die Lengfurter Bürger gelobten daraufhin alljährlich den Festtag des Hl. Sebastian zu begehen.
 
 {{< custom-figure path="2016/jk/F-1435" description="Die Statue des Heiligen Sebastian an der Dreifaltigkeitssäule auf dem Lengfurter Marktplatz" photographer="Josef Kampert" year="2016">}}
