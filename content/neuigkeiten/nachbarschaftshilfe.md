@@ -7,7 +7,7 @@ title = "Nachbarschaftshilfe"
 +++
 Wer hätte gedacht, dass das Thema Seuchen in unserer Zeit uns so schnell wieder einholt?
 
-In diesen schwierigen Zeiten möchten wir uns auf unsere Wurzeln besinnen und allen, die auf Hilfe angewiesen sind durch **Einkäufe, Botengänge** oder Ähnliches unterstützen. <!--more--> Das beschränkt sich nicht nur auf Lengfurt, sondern auf die **gesamte Gemeinde Triefenstein**.
+In diesen schwierigen Zeiten möchten wir uns auf unsere Wurzeln besinnen und allen, die auf Hilfe angewiesen sind, durch **Einkäufe, Botengänge** oder Ähnliches unterstützen. <!--more--> Das beschränkt sich nicht nur auf Lengfurt, sondern auf die **gesamte Gemeinde Triefenstein**.
 
 Dabei sind wir auf alle angewiesen! Falls Sie aktuell keine Hilfe benötigen, **erzählen Sie es bitte weiter**, falls sie selbst Hilfe benötigen, wenden sie sich bitte an:
 
